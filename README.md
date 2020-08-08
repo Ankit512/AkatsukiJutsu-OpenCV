@@ -8,3 +8,6 @@ The Akatsuki was a group of S-ranked criminals who originated from different pla
 
 ## Objective behind the project
 The main objective of the project is to detect the Dynamic Object using the Background Subtraction(MOG2)
+
+## Contributors
+- [Dheeraj Jain](https://github.com/D3-jain)
